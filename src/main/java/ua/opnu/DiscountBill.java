@@ -1,3 +1,5 @@
+package ua.opnu;
+
 public class DiscountBill extends GroceryBill {
 
     private boolean regularCustomer;
